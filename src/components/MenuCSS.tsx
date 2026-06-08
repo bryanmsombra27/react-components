@@ -1,7 +1,5 @@
-"use client";
-
 import { useState } from "react";
-import "./dashboard.css";
+import "./css/MenuCss.css";
 export default function DashboardLayout({
   children,
 }: {
