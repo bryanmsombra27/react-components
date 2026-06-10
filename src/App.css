@@ -1,5 +1,7 @@
 body {
   background-color: #f6eaea;
+  overflow-x: hidden;
+  position: relative;
 }
 
 /* article::before {
